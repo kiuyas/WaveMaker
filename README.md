@@ -2,6 +2,6 @@
 
 
 <img src="capture.png"/>
-Main screedn capture image.
+Main screen capture image.
 
 <a href="sample.wav">Sample wave file (Click to listen)</a>
