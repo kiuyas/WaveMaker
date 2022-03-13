@@ -1,4 +1,4 @@
-# A simple wave sound making tool - Wave Maker -
+# A simple sine wave sound making tool - Wave Maker -
 
 
 <img src="capture.png"/>
